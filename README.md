@@ -1,0 +1,1 @@
+# trab-EDA-roleta.c
